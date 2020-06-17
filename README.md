@@ -1,2 +1,1 @@
-# Tin-dog
-Product featuring website. (Tinder for dogs)
+TinDog Starting Files
